@@ -1,2 +1,2 @@
 # MyVisualG
-meus primeiros códigos de lógica de programação utilizando VisualG
+meus primeiros códigos praticando lógica de programação utilizando VisualG ;)
